@@ -1,0 +1,37 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MGustavo Felipe</title>
+</head>
+<body>
+    <img src="gold-ship-sybau-by-v0-vrf620oti8lf1.webp" alt="Profile picture">
+    <h1>Gustavo</h1>
+    <p>Me chamo Gustavo tenho 18 anos e estou cursando o ensino médio técnico em informática em 2025 no CETEP.</p>
+    
+    <h2>Qualidades</h2>
+    <ul>
+        <li>Dedicado</li>
+        <li>Empenhado</li>
+        <li>Curioso</li>
+    </ul>
+    
+    <h2>Frutas Favoritas</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Frutas</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>Uva</td></tr>
+            <tr><td>Melancia</td></tr>
+            <tr><td>Morango</td></tr>
+        </tbody>
+    </table>
+    <a href="wa:77999740317">Telefone</a>
+<a href="mailto:apenasparastrinova2025@gmail.com"></a>
+</body>
+</html>
